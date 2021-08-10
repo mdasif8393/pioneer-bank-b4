@@ -1,0 +1,9 @@
+.login-area{
+    box-shadow: 10px 10px 5px gray;
+    width: 100%;
+
+}
+
+#deposit-area{
+    display: none;
+}
